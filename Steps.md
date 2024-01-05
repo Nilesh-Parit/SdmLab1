@@ -22,16 +22,14 @@
               "8 Commands"
          iv) copy our project folder and paste it in repositary cloned folder
          v)  push it on github
-6)go on aws login with your credentials
-7)lauch instance 
-   1)configure the setting
+6) go on aws login with your credentials
+7) lauch instance 
        i) write instance name
        ii) select os as ubuntu
        iii) create key value pair select .ppk file
        iv) launch instance.
-
-8)security --> security group --> edit inbound rules --> add rule --> type=all traffic --> source=anywhere ipv4--> save rule 
-9)select particular instance and connect
+8) security --> security group --> edit inbound rules --> add rule --> type=all traffic --> source=anywhere ipv4--> save rule 
+9) select particular instance and connect
 10) sudo apt update 
 11) make folder mkdir folder_name --> go into particular folder --> git clone our project
 12) ls --->  go inside our project
