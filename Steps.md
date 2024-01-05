@@ -20,7 +20,6 @@
          ii) clone it in your system
          iii) if error oocurs clear proxy and set credential 
               "8 Commands"
-
          iv) copy our project folder and paste it in repositary cloned folder
          v)  push it on github
 6)go on aws login with your credentials
